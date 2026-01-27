@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Naver
+User-agent: Yeti
+Allow: /
+
+# Daum
+User-agent: Daumoa
+Allow: /
+
+Sitemap: https://shikhar127.github.io/korean-mp4-converter/sitemap.xml
